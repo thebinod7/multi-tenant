@@ -1,0 +1,14 @@
+{
+  "name": "multi-tenant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cls-hooked": "^4.2.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
